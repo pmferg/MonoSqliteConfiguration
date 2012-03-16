@@ -1,0 +1,8 @@
+C:\Dev\TFS\Development\MvcMonoTest\FluentNHibernate.MonoContrib\bin\Debug\FluentNHibernate.MonoContrib.dll
+C:\Dev\TFS\Development\MvcMonoTest\FluentNHibernate.MonoContrib\bin\Debug\FluentNHibernate.MonoContrib.pdb
+C:\Dev\TFS\Development\MvcMonoTest\FluentNHibernate.MonoContrib\bin\Debug\FluentNHibernate.dll
+C:\Dev\TFS\Development\MvcMonoTest\FluentNHibernate.MonoContrib\bin\Debug\NHibernate.dll
+C:\Dev\TFS\Development\MvcMonoTest\FluentNHibernate.MonoContrib\bin\Debug\FluentNHibernate.pdb
+C:\Dev\TFS\Development\MvcMonoTest\FluentNHibernate.MonoContrib\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\TFS\Development\MvcMonoTest\FluentNHibernate.MonoContrib\obj\Debug\FluentNHibernate.MonoContrib.dll
+C:\Dev\TFS\Development\MvcMonoTest\FluentNHibernate.MonoContrib\obj\Debug\FluentNHibernate.MonoContrib.pdb
